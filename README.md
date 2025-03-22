@@ -16,7 +16,7 @@ I thrive on **optimizing infrastructure, automating workflows, and enhancing CI/
 🔧 **Automation & IaC:** Terraform, Ansible, Linux, Shell/Bash, Python  
 💾 **Storage & Virtualization:** VMware, S3, EBS, EFS, Block & Object Storage  
 🔗 **CI/CD & Version Control:** Git, Jenkins  
-📦 **Containers & Orchestration:** Docker, Kubernetes, Helm  
+📦 **Containers & Orchestration:** Docker, Kubernetes, Helm, ArgoCD
 📊 **Monitoring & Security:** Prometheus, Grafana, Logz.io, OpsRamp  
 📂 **Agile Project Management:** JIRA, ServiceNow  
 
