@@ -19,11 +19,12 @@ I thrive on optimizing infrastructure, automating workflows, and enhancing CI/CD
 
 ---
 
-## **📌 What I Do:**  
-✔️ **Automate deployments** to enhance scalability & efficiency  
-✔️ **Optimize cloud environments** for cost-effectiveness & performance  
-✔️ **Implement security best practices** for infrastructure & applications  
-✔️ **Enable seamless collaboration** with agile workflows & Git strategies  
+📌 What I Do:
+✔️ Automate deployments to enhance scalability & efficiency 🚀
+✔️ Optimize cloud infrastructure for cost-effectiveness & performance 💡
+✔️ Implement security best practices for infrastructure & applications 🔒
+✔️ Enable seamless collaboration with agile workflows & Git strategies 🤝
+✔️ Monitor & Secure infrastructure using Prometheus, Grafana, Logz.io, and OpsRamp 📊
 
 ---
 
