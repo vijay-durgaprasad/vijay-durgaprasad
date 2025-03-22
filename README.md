@@ -5,8 +5,6 @@ I’m a DevOps Engineer passionate about cloud infrastructure, automation, and c
 Shell Scripting, Jenkins, Docker, Kubernetes, and Ansible, I focus on building scalable, reliable, and automated solutions that streamline software development and deployment.
 I thrive on optimizing infrastructure, automating workflows, and enhancing CI/CD pipelines to drive efficiency, security, and scalability.
 
-
-
 ---
 
 ## **🛠️ Tech Stack & Tools:**  
@@ -32,6 +30,5 @@ I thrive on optimizing infrastructure, automating workflows, and enhancing CI/CD
 ## **📫 Let's Connect!**  
 🔗 **LinkedIn:** (https://www.linkedin.com/in/vijay-durga-prasad-1a197277)
 📧 **Email:** (vijaydurgaprasadk@gmail.com)
-
 
 🚀 Always open to **collaborations, learning new technologies, and contributing to innovative solutions!**  
