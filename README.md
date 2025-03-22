@@ -29,8 +29,8 @@
 ---
 
 ## **📫 Let's Connect!**  
-🔗 **LinkedIn:** [Vijay Durga Prasad](#)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🌐 **Portfolio/Blog:** [yourwebsite.com](#)  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/vijay-durga-prasad-1a197277)
+📧 **Email:** (vijaydurgaprasadk@gmail.com)
+
 
 🚀 Always open to **collaborations, learning new technologies, and contributing to innovative solutions!**  
