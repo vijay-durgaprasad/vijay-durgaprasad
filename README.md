@@ -5,7 +5,7 @@
 🔹 Skilled in **building, automating, and optimizing** cloud environments using **AWS, Terraform, Ansible, and Docker**.  
 🔹 Proficient in **CI/CD pipelines** with **Jenkins & GitHub Actions**, ensuring seamless **software delivery and deployment**.  
 🔹 Strong background in **Kubernetes & Helm Charts** for containerized application management.  
-🔹 Experienced in **monitoring & observability** with **Prometheus, Grafana, and Nagios**.  
+🔹 Experienced in **monitoring & observability** with **Prometheus, Grafana**.  
 🔹 Passionate about **security**, implementing tools like **Trivy for image scanning** and best practices for cloud protection.  
 
 ---
