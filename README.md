@@ -1,7 +1,8 @@
 Hi there, I'm Vijay Durga Prasad! 👋
 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 About Me 🚀
-I’m a DevOps Engineer passionate about cloud infrastructure, automation, and continuous integration/deployment (CI/CD). With expertise in AWS, Linux, Shell Scripting, Jenkins, Docker, Kubernetes, and Ansible, I focus on building scalable, reliable, and automated solutions that streamline software development and deployment.
+I’m a DevOps Engineer passionate about cloud infrastructure, automation, and continuous integration/deployment (CI/CD). With expertise in AWS, Linux, 
+Shell Scripting, Jenkins, Docker, Kubernetes, and Ansible, I focus on building scalable, reliable, and automated solutions that streamline software development and deployment.
 I thrive on optimizing infrastructure, automating workflows, and enhancing CI/CD pipelines to drive efficiency, security, and scalability.
 
 
